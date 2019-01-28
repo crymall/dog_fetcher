@@ -1,0 +1,12 @@
+button {
+  width: 100px;
+}
+
+.dog_img {
+  max-width: 300px;
+}
+
+.random_dog_area {
+  display: flex;
+  flex-direction: column;
+}
